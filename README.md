@@ -36,14 +36,17 @@ PROGRAM:
 
 
 OUTPUT GRAPH:
+
 ![WhatsApp Image 2026-04-01 at 6 49 04 AM](https://github.com/user-attachments/assets/db3344f9-ac81-441b-9806-c0f49056c2c7)
 
 Tabulation :
+
 ![WhatsApp Image 2026-04-01 at 6 47 04 ](https://github.com/user-attachments/assets/b3498490-96b0-4734-8bb1-18495ac19cbd)
 
 Calculation :
 ![WhatsApp Image 2026-04-01 at 6 47 23 AM](https://github.com/user-attachments/assets/6011b88e-3484-43f4-a42f-79a156358ff7)
 
 RESULT:
+
 Thus, the generate ssbsc using scilab had been done and verified successfully 
 
